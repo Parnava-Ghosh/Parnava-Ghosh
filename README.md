@@ -91,11 +91,29 @@ me.say_hi()
 
 ## 🤝 Let's Connect!
 
-<p align="center">
-  <a href="https://github.com/Parnava-Ghosh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/parnava-ghosh-0bb159308/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/ParnavaX"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:pranavaghosh707@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<div align="center">
 
----
+  <!-- GitHub (white) -->
+  <a href="https://github.com/Parnava-Ghosh" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/ffffff" height="40" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/parnava-ghosh-0bb159308/" target="_blank">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- X (Twitter) white -->
+  <a href="https://x.com/ParnavaX" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/ffffff" height="40" alt="X" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Email (white) -->
+  <a href="mailto:pranavaghosh707@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/ffffff" height="40" alt="Email" />
+  </a>
+
+</div>
