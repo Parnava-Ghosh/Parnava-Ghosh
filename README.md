@@ -91,29 +91,31 @@ me.say_hi()
 
 ## 🤝 Let's Connect!
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 55px; align-items: center;">
 
-  <!-- GitHub (white) -->
+  <!-- GitHub -->
   <a href="https://github.com/Parnava-Ghosh" target="_blank">
     <img src="https://cdn.simpleicons.org/github/ffffff" height="40" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/parnava-ghosh-0bb159308/" target="_blank">
     <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" height="40" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- X (Twitter) white -->
+  <!-- X -->
   <a href="https://x.com/ParnavaX" target="_blank">
     <img src="https://cdn.simpleicons.org/x/ffffff" height="40" alt="X" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <!-- Email (white) -->
+  <!-- Gmail -->
   <a href="mailto:pranavaghosh707@gmail.com" target="_blank">
     <img src="https://cdn.simpleicons.org/gmail/ffffff" height="40" alt="Email" />
+  </a>
+
+  <!-- Instagram (colorful) -->
+  <a href="https://www.instagram.com/parnavaghosh18/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40" alt="Instagram" />
   </a>
 
 </div>
