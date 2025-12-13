@@ -50,29 +50,16 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
-
+📊 GitHub Stats
 <div align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Parnava-Ghosh&theme=radical&hide_border=true" 
-    alt="GitHub Streak" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Parnava-Ghosh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parnava-Ghosh&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="180"/>
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/api/?username=Parnava-Ghosh&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=Parnava-Ghosh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
----
-
-## 📈 Contribution Graph
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parnava-Ghosh&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parnava-Ghosh&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
