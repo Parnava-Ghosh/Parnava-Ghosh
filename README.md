@@ -54,26 +54,6 @@ me.say_hi()
 
 <div align="center">
   
-  ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parnava-Ghosh&theme=github_dark)
-  
-</div>
-
-<div align="center">
-  
-  ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parnava-Ghosh&theme=github_dark)
-  ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Parnava-Ghosh&theme=github_dark)
-  
-</div>
-
-<div align="center">
-  
-  ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Parnava-Ghosh&theme=github_dark)
-  ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Parnava-Ghosh&theme=github_dark&utcOffset=5.5)
-  
-</div>
-
-<div align="center">
-  
   ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Parnava-Ghosh&theme=tokyo-night&hide_border=true&area=true)
   
 </div>
