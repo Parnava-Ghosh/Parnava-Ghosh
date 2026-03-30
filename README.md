@@ -44,7 +44,7 @@ me.say_hi()
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,tailwindcss,react,redux,mongodb,expressjs,nodejs,nextjs,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,tailwindcss,react,redux,mongodb,mysql,expressjs,nodejs,nextjs,git,github&theme=dark" />
   </a>
 </p>
 
